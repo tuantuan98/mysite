@@ -1,1 +1,1 @@
-# tuan
+# Xóa template/polls/ad
