@@ -1,1 +1,1 @@
-# Xóa template/polls/ad
+# Xóa template/
